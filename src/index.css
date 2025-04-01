@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*::-webkit-scrollbar {
+  width: 10px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 10px;
+}
+*::-webkit-scrollbar-thumb {
+  background-color: #ff9800;
+  border-radius: 10px;
+}
+.header {
+  background-image: url("./assets/bg-header-img.png");
+  background-position: bottom right;
+  background-size: cover;
+  height: 100vh;
+}
+.active {
+  color: #ff9800;
+}
