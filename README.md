@@ -1,6 +1,6 @@
 # **🍽️ Food Buddy - Your Ultimate Food Companion**  
 
-🚀 **Food Buddy** is a modern and user-friendly food website designed to help users explore delicious recipes, discover trending dishes, and find nearby restaurants.  
+🚀 **Food Buddy** is a modern and user-friendly food website designed to help users explore delicious recipes, discover trending dishes
 
 ## **🌟 Features**  
 ✅ Beautiful and responsive UI with Tailwind CSS  
